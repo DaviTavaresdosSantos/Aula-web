@@ -1,0 +1,7 @@
+.tamanho{
+
+    width: 500px;
+    border-style: solid;
+    border-width: 7px;
+    width: 500px; /*Colocalndo o tamanho, largura, da borda*/
+}
