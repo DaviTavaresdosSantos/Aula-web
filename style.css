@@ -20,7 +20,25 @@ h1,h2,h3,p,a{
 
 }
 
+.main{
 
+    text-align: center;
+    margin: 0 auto;
+    width: 600px;
+    background-color: black;
+
+}
+
+.cabeca{
+
+    border-bottom: solid 3px;
+    border-color: red; 
+    text-align: center; 
+    background-color: black; 
+    margin: 0 auto; 
+    width: 600px;
+   
+}
 
 
 
